@@ -6,7 +6,8 @@ Este repositorio contiene un análisis exploratorio de datos de crímenes en Los
 
 ## Contenidos del Repositorio
 
-- `crime_analysis_notebook.ipynb`: El notebook de Google Colab donde se realizan los análisis y visualizaciones de los datos de crímenes.
+- `CarlosMedinaCrimeLAData.ipynb`: El notebook de Google Colab donde se realizan los análisis y visualizaciones de los datos de crímenes.
+- `CarlosMedinaAbstractopdf`: La presentación ejecutiva con las preguntas y el análisis exploratorio
 - `datasets/`: Contiene los archivos CSV y PDFs utilizados para el análisis.
 - `README.md`: Este archivo con la descripción general del proyecto.
 
