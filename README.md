@@ -18,6 +18,7 @@ El objetivo de este análisis es identificar patrones en los tipos de crímenes 
 - Visualización de la distribución de crímenes según la clasificación legal.
 - Análisis espacial utilizando mapas de calor para representar la densidad de crímenes en distintas áreas.
 - Agrupación de crímenes por horas del día para detectar picos en actividades delictivas.
+- Aplicación de machine learning para estudiar variables del modelo
 
 
 
